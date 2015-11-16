@@ -1,0 +1,42 @@
+body {
+  background-color: yellow;
+}
+
+#logo {
+  padding-top: 3%;
+}
+
+#quote_box {
+    font-size: 20px;
+  border: 2px solid hsla(0, 0%, 70%, 0.75);
+  background-color: hsla(0, 0%, 70%, 0.75);
+  : hlsa(0, 0%, 0%, 1);
+  padding: 3% 3% 3% 3%;
+  margin: 0 0.7% 0.7% 0.7%;
+  border-radius: 0.3em;
+  box-shadow: .2em .2em .2em #444;
+  height: 100%;
+}
+
+.subtitle {
+  margin-top: -2%;
+}
+
+#next_button {
+  font-size: 20px;
+  border: 2px solid hsla(0, 0%, 70%, 0.75);
+  background-color: hsla(0, 0%, 70%, 0.75);
+  : hlsa(0, 0%, 0%, 1);
+  padding: 3% 3% 3% 3%;
+  margin: 0 auto 0.7% auto;
+  border-radius: 0.3em;
+  box-shadow: .2em .2em .2em #444;
+}
+
+#footer {
+  background-color: rgb(80,80,80);
+}
+
+#nav-text {
+  color: white;
+}
