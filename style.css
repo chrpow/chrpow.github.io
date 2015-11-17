@@ -7,14 +7,11 @@ body {
 }
 
 #quote_box {
-    font-size: 20px;
+  font-size: 20px;
   border: 2px solid hsla(0, 0%, 70%, 0.75);
   background-color: hsla(0, 0%, 70%, 0.75);
   : hlsa(0, 0%, 0%, 1);
-  padding: 3% 3% 3% 3%;
-  margin: 0 0.7% 0.7% 0.7%;
   border-radius: 0.3em;
-  box-shadow: .2em .2em .2em #444;
   height: 100%;
 }
 
@@ -22,15 +19,18 @@ body {
   margin-top: -2%;
 }
 
+.shadow {
+  padding: 3% 3% 3% 3%;
+  margin: 0 auto 0.7% auto;
+  box-shadow: .2em .2em .2em #444;
+}
+
 #next_button {
   font-size: 20px;
   border: 2px solid hsla(0, 0%, 70%, 0.75);
   background-color: hsla(0, 0%, 70%, 0.75);
   : hlsa(0, 0%, 0%, 1);
-  padding: 3% 3% 3% 3%;
-  margin: 0 auto 0.7% auto;
   border-radius: 0.3em;
-  box-shadow: .2em .2em .2em #444;
 }
 
 #footer {
